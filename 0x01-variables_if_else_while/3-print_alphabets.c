@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- *  * main - write function  that prints the
- *   * alphabets in both lowercase and uppercase
- *    *
- *     * Return: Always 0 (Success)
- *      */
+ * main - write function that prints the
+ * alphabets lowercase and uppercase
+ *
+ * Return: Always 0 (Success)
+ **/
 
 int main(void)
 {
