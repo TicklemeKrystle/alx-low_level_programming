@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- *  * main - This function prints out a string followed
- *   * by a new line
- *    *
- *     * Description: you are not allowed to use standard libraries
- *      *
- *       * Return: Always 0 (Success)
- *        */
+ * main - This function prints out a string followed
+ * by a new line
+ *
+ * Description: No standard libraries
+ *
+ * Return: Always 0
+ */
 
 int main(void)
 {
@@ -18,7 +18,6 @@ int main(void)
 	{
 		_putchar(p[i]);
 	}
-
 	_putchar('\n');
 	return (0);
 }
